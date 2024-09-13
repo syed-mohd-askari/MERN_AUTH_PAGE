@@ -1,1 +1,9 @@
 # MERN_AUTH_PAGE
+
+
+**.ENV SAMPLE FILE**
+```
+PORT = 8080
+MONGO_CONN = ""
+JWT_SECRET = "secret-123"
+```
